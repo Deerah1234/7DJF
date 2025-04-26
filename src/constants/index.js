@@ -6,7 +6,7 @@ const BookSummary = {
         `→ Powerful Affirmations to speak freedom into your life`,
         `→ Reflection Prompts for self-awareness and growth`,
         `→ Bonus Section on Accountability & Technology Tools`,
-        `→ Recommended Bible Plans to keep you growing`,
+        // `→ Recommended Bible Plans to keep you growing`,
     ],
     intendedAudience: [
         `→ Anyone struggling with temptation or addictive habits`,

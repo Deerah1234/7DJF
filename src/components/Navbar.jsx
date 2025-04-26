@@ -1,5 +1,7 @@
 import { Logo } from "@/assets";
+
 import { Button } from "./ui/button";
+import ShareTestimony from "./ShareTestimony";
 
 const Navbar = () => {
     return (
@@ -13,9 +15,7 @@ const Navbar = () => {
                     />
                 </div>
                 <div className="flex gap-5 items-center">
-                    <Button className="text-xs bg-[#38110c] px-5 py-2 cursor-pointer hover:bg-[#4a1a13] transition rounded-sm">
-                        SHARE YOUR TESTIMONIES'
-                    </Button>
+                    <ShareTestimony />
                 </div>
             </div>
         </nav>
